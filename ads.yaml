@@ -1,74 +1,74 @@
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advertising-api-eu.amazon.com
-afs.googlesyndication.com
-mediavisor.doubleclick.net
-ads30.adcolony.com
-adm.hotjar.com
-identify.hotjar.com
-insights.hotjar.com
-events.hotjar.io
-mouseflow.com
-browser.sentry-cdn.com
-samsung-com.112.2o7.net
-analytics.pointdrive.linkedin.com
-analytics-api.samsunghealthcn.com
-udc.yahoo.com
-bdapi-ads.realmemobile.com
-udcm.yahoo.com
-cdn.taboola.com
-data.mistat.india.xiaomi.com
-log.fc.yahoo.com
-trc.taboola.com
-ck.ads.oppomobile.com
-adtech.yahooinc.com
-bdapi-in-ads.realmemobile.com
-data.mistat.rus.xiaomi.com
-events.reddit.com
-click.oneplus.cn
-grs.hicloud.com
-widgets.pinterest.com
-pagead2.googlesyndication.com
-metrics.data.hicloud.com
-logservice.hicloud.com
-metrics2.data.hicloud.com
-adservice.google.com
-pagead2.googleadservices.com
-afs.googlesyndication.com\
-ads30.adcolony.com
-surveys.hotjar.com
-freshmarketer.com
-claritybt.freshmarketer.com
-fwtracks.freshmarketer.com
-mouseflow.com
-o2.mouseflow.com
-tools.mouseflow.com
-cdn-test.mouseflow.com
-luckyorange.com
-api.luckyorange.com
-realtime.luckyorange.com
-cdn.luckyorange.com
-w1.luckyorange.com
-upload.luckyorange.net
-advertising.apple.com
-api-adservices.apple.com
-cs.luckyorange.net
-app.bugsnag.com
-books-analytics-events.apple.com
-api.bugsnag.com
-settings.luckyorange.net
-browser.sentry-cdn.com
-app.getsentry.com
-ads-api.tiktok.com
-metrika.yandex.ru
-analytics-sg.tiktok.com
-logbak.hicloud.com
-business-api.tiktok.com
-log.byteoversea.com
-offerwall.yandex.net
-adfox.yandex.ru
-extmaps-api.yandex.net
-advertising.yandex.ru
-appmetrica.yandex.ru
-adfstat.yandex.ru
-logservice1.hicloud.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 mouseflow.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 cdn.taboola.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 trc.taboola.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 events.reddit.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 grs.hicloud.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com\
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 mouseflow.com
+0.0.0.0 o2.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 advertising.apple.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 app.bugsnag.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 settings.luckyorange.net
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 logservice1.hicloud.com
